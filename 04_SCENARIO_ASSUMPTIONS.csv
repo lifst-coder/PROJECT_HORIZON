@@ -1,8 +1,10 @@
 variable,base,low,high,source,type
-dc_electricity_twh_2026,589.0,500.0,650.0,Bain/IEA estimates,observed
-dc_electricity_growth_rate,0.15,0.1,0.2,IEA base ~15%/yr to 2030,forecast
+dc_electricity_twh_2025,485.0,485.0,485.0,IEA Key Questions on Energy and AI (2026),observed
+dc_growth_rate_to_2030,0.144,0.1,0.19,Calibrated so the mode reaches the IEA Base Case of about 950 TWh in 2030,forecast
+dc_growth_rate_2030_2035,0.07,-0.06,0.12,Spans the IEA 2035 range of 700-1700 TWh; median reaches about 1200 TWh,forecast
+dc_post_2035_growth_damping,0.5,0.5,0.5,No external anchor after 2035; growth assumed to halve,assumption
 ai_share_of_dc_2030,0.4,0.3,0.5,JLL/TrendForce,forecast
-industrial_robots_stock_2025,5.08,5.0,5.2,IFR 2026,observed
+industrial_robots_stock_2025,5.08,5.08,5.08,IFR World Robotics 2026 (5.079 million units),observed
 robot_install_growth,0.07,0.05,0.1,IFR forecast 7% CAGR,forecast
 humanoid_prod_2025,0.016,0.01,0.025,Epoch AI,observed
 humanoid_doubling_time_months,9.0,6.0,12.0,Epoch AI trend,forecast

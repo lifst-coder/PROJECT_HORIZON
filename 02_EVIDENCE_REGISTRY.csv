@@ -1,5 +1,6 @@
 claim_id,claim,status,sources,confidence
-C001,"Global data center electricity ~589 TWh in 2026, projected >2x by 2030",Verified,Bain Nov 2026; IEA; TrendForce Sept 2026,High
+C001,"Global data centre electricity 485 TWh in 2025, about 950 TWh by 2030 (Base Case), about 1200 TWh by 2035",Verified,IEA Energy and AI (2025); IEA Key Questions on Energy and AI (2026),High
+C001a,"Global data centre electricity ~589 TWh in 2026 (figure used by the first simulation)",Not traced to a primary source,Attributed to Bain Nov 2026 in the first run; not reconciled with the IEA series,Low
 C002,Industrial robot operational stock 5.08 million end-2025,Verified,IFR World Robotics 2026,High
 C003,mAb manufacturing costs reduced to ~$12/g,Verified,IIT Delhi / BioPharm International Oct 2026,Medium-High
 C004,"TSMC A14 (1.4nm) risk production 2027, volume 2028",Verified,TSMC roadmaps 2026,High
