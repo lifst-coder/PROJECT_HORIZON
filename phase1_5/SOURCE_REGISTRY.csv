@@ -1,0 +1,9 @@
+Source_ID,Title,Authors_or_Org,Date,URL,Type,Independence,Reliability
+S001,Technology Trends Outlook 2026,McKinsey & Company,2026-09,https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/the-top-trends-in-tech,Report,Consulting,High
+S002,Energy and AI,IEA,2025-04,https://www.iea.org/reports/energy-and-ai,Official Report,Intergovernmental,Very High
+S003,Key Questions on Energy and AI,IEA,2026-04,https://www.iea.org/reports/energy-and-ai,Update,Intergovernmental,Very High
+S004,Figure Helix 2.5 announcement / analyses,Figure AI / secondary,2026-09,Multiple,Company + Analysis,Company,Medium
+S005,Agility Robotics commercial data,Agility / SPAC filings,2026,Company filings,Filings,Company,Medium-High
+S006,AI100 2026 Report,Stanford AI100 Panel,2026-11,https://ai100.stanford.edu/reports/2026-report,Expert Panel,Academic,High
+S007,Cities Worldwide Build and Scale AI Services,NVIDIA,2026-11,NVIDIA blog,Company Blog,Company,Medium
+S008,Humanoid deployment trackers,Multiple (XHEART, Protocol, humanoid.observer etc.),2026,Various,Aggregators,Independent,Medium

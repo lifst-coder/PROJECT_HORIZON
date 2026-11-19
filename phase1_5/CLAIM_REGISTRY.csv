@@ -1,0 +1,10 @@
+Claim_ID,Domain,Claim_Text,Value_Numeric,Unit,Type,Source_ID,Page_or_Section,Verification_Status,Match_Original,Notes_Correction,Confidence
+C001,Energy,McKinsey energy technologies investment 2025,200,billion USD,Report Estimate,S001,Tech Trends Outlook 2026 intro,Verified_Corrected,False,Previous PHASE1 stated ~20B; original is nearly 200B,High
+C002,Energy,Global data center electricity 2024,415,TWh,Observation,S002,IEA Energy and AI ES,Verified,True,IEA official,High
+C003,Energy,Global data center electricity 2030 Base,945,TWh,Projection,S002,IEA Energy and AI,Verified,True,IEA Base Case,High
+C004,Energy,Global data center electricity 2025,485,TWh,Estimate,S003,IEA Key Questions 2026,Verified,True,Updated figure,High
+C005,Robotics,Figure Helix 2.5 home zero-shot success,56,percent,Observation,S004,Company announcement / reports,Verified,True,237/420 trials in 30 unseen homes; not general commercial reliability,Medium
+C006,Robotics,Agility Digit operating hours,65000,hours,Company Claim,S005,Agility / filings,Partially_Verified,True,Across commercial sites including GXO; unit count not fully disclosed,Medium
+C007,AI,AI100 2026 scaling limits,N/A,N/A,Expert Assessment,S006,AI100 2026 Key Takeaways,Verified,True,Shift from pure scaling to inference-time compute/reasoning,High
+C008,Urban,Specific urban AI travel time reduction,26,percent,Case Study,S007,NVIDIA blog ITMAX,Verified,True,One corridor project; not universal 10-30%,Medium
+C009,Robotics,Humanoid commercial productive deployments,Limited,N/A,Observation,S008,Multiple trackers,Verified,True,Shipments (esp China) >> productive commercial deployments; Agility GXO most mature West,High

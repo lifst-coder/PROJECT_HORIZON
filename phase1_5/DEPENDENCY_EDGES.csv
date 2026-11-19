@@ -1,0 +1,5 @@
+Edge_ID,From_Tech,To_Tech,Relation_Type,Strength,Uncertainty,Evidence_Source,Notes
+E001,T001,T002,Enables_Performance,High,Medium,Literature,Better reasoning improves robot autonomy
+E002,T003,T001,Enables_Scale,High,Low,IEA reports,Power density required for advanced AI inference/training
+E003,T004,T003,Mitigates_Constraint,Medium,High,Industry announcements,Nuclear can provide firm power but timelines lag demand
+E004,T002,T003,Increases_Demand,Medium,Medium,Projections,Physical AI deployment adds further energy demand
