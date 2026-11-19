@@ -1,0 +1,7 @@
+claim_id,claim,status,sources,confidence
+C001,"Global data center electricity ~589 TWh in 2026, projected >2x by 2030",Verified,Bain Nov 2026; IEA; TrendForce Sept 2026,High
+C002,Industrial robot operational stock 5.08 million end-2025,Verified,IFR World Robotics 2026,High
+C003,mAb manufacturing costs reduced to ~$12/g,Verified,IIT Delhi / BioPharm International Oct 2026,Medium-High
+C004,"TSMC A14 (1.4nm) risk production 2027, volume 2028",Verified,TSMC roadmaps 2026,High
+C005,Fusion commercial plants targeted early 2030s by several firms; significant financing and engineering gaps remain,Partially verified,IAEA World Fusion Outlook Nov 2026; company announcements,Medium
+C006,Only two SMRs commercially operating as of Oct 2026,Verified,SMR Tracker Oct 2026,High

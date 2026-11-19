@@ -1,0 +1,13 @@
+variable,base,low,high,source,type
+dc_electricity_twh_2026,589.0,500.0,650.0,Bain/IEA estimates,observed
+dc_electricity_growth_rate,0.15,0.1,0.2,IEA base ~15%/yr to 2030,forecast
+ai_share_of_dc_2030,0.4,0.3,0.5,JLL/TrendForce,forecast
+industrial_robots_stock_2025,5.08,5.0,5.2,IFR 2026,observed
+robot_install_growth,0.07,0.05,0.1,IFR forecast 7% CAGR,forecast
+humanoid_prod_2025,0.016,0.01,0.025,Epoch AI,observed
+humanoid_doubling_time_months,9.0,6.0,12.0,Epoch AI trend,forecast
+fusion_commercial_start_year,2035.0,2032.0,2045.0,Company targets vs IAEA realism,assumption
+smr_capacity_gw_2035,20.0,5.0,50.0,Current construction pipeline,forecast
+battery_density_whkg_2026,280.0,250.0,320.0,Commercial Li-ion,observed
+solid_state_mass_prod_year,2030.0,2028.0,2033.0,CATL/Toyota targets,forecast
+bio_mab_cost_usd_per_g,12.0,8.0,20.0,IIT Delhi 2026,observed
